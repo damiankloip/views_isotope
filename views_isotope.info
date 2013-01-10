@@ -1,0 +1,8 @@
+name = Views isotope
+description = Views integration for the Isotope JS library
+core = 7.x
+package = Views
+
+dependencies[] = views
+
+files[] = views_plugins/views_isotope_style_plugin.inc
